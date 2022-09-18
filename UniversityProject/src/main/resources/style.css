@@ -1,0 +1,16 @@
+.root{
+-fx-background-color:#d5dbcc;
+}
+/*design for log in button*/
+.loginButton {
+    -fx-font : 14px "serief";
+    -fx-background-color : #CCFF99;
+}
+.button:hover {
+    -fx-background-color:#99ffa8;
+}
+/*design for wrong password field*/
+.labelWrongPass{
+    -fx-text-fill:#FF0000;
+}
+
